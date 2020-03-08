@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wallfront/static/css/main.e28f10f3.chunk.css",
+    "main.js": "/wallfront/static/js/main.a2ceb972.chunk.js",
+    "main.js.map": "/wallfront/static/js/main.a2ceb972.chunk.js.map",
+    "runtime-main.js": "/wallfront/static/js/runtime-main.ac90873d.js",
+    "runtime-main.js.map": "/wallfront/static/js/runtime-main.ac90873d.js.map",
+    "static/js/2.989abcf0.chunk.js": "/wallfront/static/js/2.989abcf0.chunk.js",
+    "static/js/2.989abcf0.chunk.js.map": "/wallfront/static/js/2.989abcf0.chunk.js.map",
+    "index.html": "/wallfront/index.html",
+    "precache-manifest.ffd8d254f40073e92f1a2c311fd63f0a.js": "/wallfront/precache-manifest.ffd8d254f40073e92f1a2c311fd63f0a.js",
+    "service-worker.js": "/wallfront/service-worker.js",
+    "static/css/main.e28f10f3.chunk.css.map": "/wallfront/static/css/main.e28f10f3.chunk.css.map",
+    "static/js/2.989abcf0.chunk.js.LICENSE.txt": "/wallfront/static/js/2.989abcf0.chunk.js.LICENSE.txt",
+    "static/media/word.png": "/wallfront/static/media/word.f700267a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac90873d.js",
+    "static/js/2.989abcf0.chunk.js",
+    "static/css/main.e28f10f3.chunk.css",
+    "static/js/main.a2ceb972.chunk.js"
+  ]
+}
